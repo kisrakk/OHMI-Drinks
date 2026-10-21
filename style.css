@@ -3,7 +3,7 @@
 /* 1. Fonts and colours. Each page has its own text colours (--ink and --accent). */
 :root {
   --title-font: 'Questrial', 'Century Gothic', sans-serif;
-  --body-font: 'Cinzel', Georgia, serif;
+  --body-font: 'Space Grotesk', Arial, sans-serif;
   --deep: #0A1030;
 }
 * { box-sizing: border-box; }
